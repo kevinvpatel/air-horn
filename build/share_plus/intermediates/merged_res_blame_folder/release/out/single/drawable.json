@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/onlymac/kevintechmates/AndroidStudioProjects/airhorntms_git/build/share_plus/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/Users/onlymac/.gradle/caches/transforms-3/e3892957ff43f0bc53053182229cc4a6/transformed/core-1.7.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/onlymac/kevintechmates/AndroidStudioProjects/airhorntms_git/build/share_plus/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/Users/onlymac/.gradle/caches/transforms-3/e3892957ff43f0bc53053182229cc4a6/transformed/core-1.7.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/onlymac/kevintechmates/AndroidStudioProjects/airhorntms_git/build/share_plus/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/Users/onlymac/.gradle/caches/transforms-3/e3892957ff43f0bc53053182229cc4a6/transformed/core-1.7.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/onlymac/kevintechmates/AndroidStudioProjects/airhorntms_git/build/share_plus/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/onlymac/.gradle/caches/transforms-3/e3892957ff43f0bc53053182229cc4a6/transformed/core-1.7.0/res/drawable/notification_tile_bg.xml"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/onlymac/kevintechmates/AndroidStudioProjects/airhorntms_git/build/just_audio/intermediates/res/merged/release/drawable-xxhdpi-v4/media_session_service_notification_ic_pause.png",
+        "source": "/Users/onlymac/.gradle/caches/transforms-3/f7f104553746cfeb821bc2f13e1a64a6/transformed/jetified-media2-session-1.2.0/res/drawable-xxhdpi-v4/media_session_service_notification_ic_pause.png"
+    },
+    {
+        "merged": "/Users/onlymac/kevintechmates/AndroidStudioProjects/airhorntms_git/build/just_audio/intermediates/res/merged/release/drawable-xxhdpi-v4/media_session_service_notification_ic_play.png",
+        "source": "/Users/onlymac/.gradle/caches/transforms-3/f7f104553746cfeb821bc2f13e1a64a6/transformed/jetified-media2-session-1.2.0/res/drawable-xxhdpi-v4/media_session_service_notification_ic_play.png"
+    },
+    {
+        "merged": "/Users/onlymac/kevintechmates/AndroidStudioProjects/airhorntms_git/build/just_audio/intermediates/res/merged/release/drawable-xxhdpi-v4/media_session_service_notification_ic_music_note.png",
+        "source": "/Users/onlymac/.gradle/caches/transforms-3/f7f104553746cfeb821bc2f13e1a64a6/transformed/jetified-media2-session-1.2.0/res/drawable-xxhdpi-v4/media_session_service_notification_ic_music_note.png"
+    },
+    {
+        "merged": "/Users/onlymac/kevintechmates/AndroidStudioProjects/airhorntms_git/build/just_audio/intermediates/res/merged/release/drawable-xxhdpi-v4/media_session_service_notification_ic_skip_to_next.png",
+        "source": "/Users/onlymac/.gradle/caches/transforms-3/f7f104553746cfeb821bc2f13e1a64a6/transformed/jetified-media2-session-1.2.0/res/drawable-xxhdpi-v4/media_session_service_notification_ic_skip_to_next.png"
+    },
+    {
+        "merged": "/Users/onlymac/kevintechmates/AndroidStudioProjects/airhorntms_git/build/just_audio/intermediates/res/merged/release/drawable-xxhdpi-v4/media_session_service_notification_ic_skip_to_previous.png",
+        "source": "/Users/onlymac/.gradle/caches/transforms-3/f7f104553746cfeb821bc2f13e1a64a6/transformed/jetified-media2-session-1.2.0/res/drawable-xxhdpi-v4/media_session_service_notification_ic_skip_to_previous.png"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/onlymac/kevintechmates/AndroidStudioProjects/airhorntms_git/build/firebase_in_app_messaging/intermediates/res/merged/release/layout-land/card.xml",
+        "source": "/Users/onlymac/.gradle/caches/transforms-3/71174ef0df1404c372aa612fe179942d/transformed/jetified-firebase-inappmessaging-display-20.2.0/res/layout-land/card.xml"
+    },
+    {
+        "merged": "/Users/onlymac/kevintechmates/AndroidStudioProjects/airhorntms_git/build/firebase_in_app_messaging/intermediates/res/merged/release/layout-land/modal.xml",
+        "source": "/Users/onlymac/.gradle/caches/transforms-3/71174ef0df1404c372aa612fe179942d/transformed/jetified-firebase-inappmessaging-display-20.2.0/res/layout-land/modal.xml"
+    },
+    {
+        "merged": "/Users/onlymac/kevintechmates/AndroidStudioProjects/airhorntms_git/build/firebase_in_app_messaging/intermediates/res/merged/release/layout-land/card_landscape_inner.xml",
+        "source": "/Users/onlymac/.gradle/caches/transforms-3/71174ef0df1404c372aa612fe179942d/transformed/jetified-firebase-inappmessaging-display-20.2.0/res/layout-land/card_landscape_inner.xml"
+    }
+]

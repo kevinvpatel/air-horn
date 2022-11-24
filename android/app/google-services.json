@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "227590219072",
+    "project_id": "air-horn-20466",
+    "storage_bucket": "air-horn-20466.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227590219072:android:047eb0d633f9ec0da906a5",
+        "android_client_info": {
+          "package_name": "com.airhorn.appglobal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227590219072-6icnggotsv9dorekus8osikai5ull509.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUN05XEW43p13IT4OW4bhqAvsZSnjSi0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227590219072-6icnggotsv9dorekus8osikai5ull509.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "227590219072-3koj7c2i9qha3ffqmtkcp5eja48hb0c7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tmsairhorn"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227590219072:android:bc27947ee813d3f9a906a5",
+        "android_client_info": {
+          "package_name": "com.tmsairhorn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227590219072-6icnggotsv9dorekus8osikai5ull509.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUN05XEW43p13IT4OW4bhqAvsZSnjSi0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227590219072-6icnggotsv9dorekus8osikai5ull509.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "227590219072-3koj7c2i9qha3ffqmtkcp5eja48hb0c7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tmsairhorn"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

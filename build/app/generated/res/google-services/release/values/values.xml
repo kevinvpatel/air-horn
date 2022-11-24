@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">227590219072-6icnggotsv9dorekus8osikai5ull509.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">227590219072</string>
+    <string name="google_api_key" translatable="false">AIzaSyAUN05XEW43p13IT4OW4bhqAvsZSnjSi0U</string>
+    <string name="google_app_id" translatable="false">1:227590219072:android:047eb0d633f9ec0da906a5</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAUN05XEW43p13IT4OW4bhqAvsZSnjSi0U</string>
+    <string name="google_storage_bucket" translatable="false">air-horn-20466.appspot.com</string>
+    <string name="project_id" translatable="false">air-horn-20466</string>
+</resources>

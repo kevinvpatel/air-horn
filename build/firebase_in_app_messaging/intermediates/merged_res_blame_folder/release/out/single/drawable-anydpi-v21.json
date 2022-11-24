@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/onlymac/kevintechmates/AndroidStudioProjects/airhorntms_git/build/firebase_in_app_messaging/intermediates/res/merged/release/drawable-anydpi-v21/btn_clear.xml",
+        "source": "/Users/onlymac/.gradle/caches/transforms-3/71174ef0df1404c372aa612fe179942d/transformed/jetified-firebase-inappmessaging-display-20.2.0/res/drawable-anydpi-v21/btn_clear.xml"
+    },
+    {
+        "merged": "/Users/onlymac/kevintechmates/AndroidStudioProjects/airhorntms_git/build/firebase_in_app_messaging/intermediates/res/merged/release/drawable-anydpi-v21/image_placeholder.xml",
+        "source": "/Users/onlymac/.gradle/caches/transforms-3/71174ef0df1404c372aa612fe179942d/transformed/jetified-firebase-inappmessaging-display-20.2.0/res/drawable-anydpi-v21/image_placeholder.xml"
+    }
+]

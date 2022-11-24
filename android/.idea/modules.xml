@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1079940650/android.audio_session.iml" filepath="$PROJECT_DIR$/.idea/modules/-1079940650/android.audio_session.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1079940650/android.audio_session.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1079940650/android.audio_session.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1079940650/android.audio_session.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1079940650/android.audio_session.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1079940650/android.audio_session.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1079940650/android.audio_session.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1583076921/android.google_mobile_ads.iml" filepath="$PROJECT_DIR$/.idea/modules/-1583076921/android.google_mobile_ads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1583076921/android.google_mobile_ads.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1583076921/android.google_mobile_ads.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1583076921/android.google_mobile_ads.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1583076921/android.google_mobile_ads.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1583076921/android.google_mobile_ads.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1583076921/android.google_mobile_ads.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1860225944/android.just_audio.iml" filepath="$PROJECT_DIR$/.idea/modules/-1860225944/android.just_audio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1860225944/android.just_audio.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1860225944/android.just_audio.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1860225944/android.just_audio.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1860225944/android.just_audio.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1860225944/android.just_audio.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1860225944/android.just_audio.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-453322938/android.path_provider_android.iml" filepath="$PROJECT_DIR$/.idea/modules/-453322938/android.path_provider_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-453322938/android.path_provider_android.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-453322938/android.path_provider_android.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-453322938/android.path_provider_android.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-453322938/android.path_provider_android.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-453322938/android.path_provider_android.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-453322938/android.path_provider_android.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1881638814/android.share_plus.iml" filepath="$PROJECT_DIR$/.idea/modules/-1881638814/android.share_plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1881638814/android.share_plus.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1881638814/android.share_plus.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1881638814/android.share_plus.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1881638814/android.share_plus.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1881638814/android.share_plus.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1881638814/android.share_plus.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-299518161/android.url_launcher_android.iml" filepath="$PROJECT_DIR$/.idea/modules/-299518161/android.url_launcher_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-299518161/android.url_launcher_android.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-299518161/android.url_launcher_android.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-299518161/android.url_launcher_android.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-299518161/android.url_launcher_android.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-299518161/android.url_launcher_android.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-299518161/android.url_launcher_android.unitTest.iml" />
+    </modules>
+  </component>
+</project>

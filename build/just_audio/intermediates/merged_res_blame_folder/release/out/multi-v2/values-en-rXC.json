@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/onlymac/kevintechmates/AndroidStudioProjects/airhorntms_git/build/just_audio/intermediates/res/merged/release/values-en-rXC/values-en-rXC.xml",
+            "map": [
+                {
+                    "source": "/Users/onlymac/.gradle/caches/transforms-3/f7f104553746cfeb821bc2f13e1a64a6/transformed/jetified-media2-session-1.2.0/res/values-en-rXC/values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,262,461,655,879",
+                        "endColumns": "206,198,193,223,230",
+                        "endOffsets": "257,456,650,874,1105"
+                    }
+                },
+                {
+                    "source": "/Users/onlymac/.gradle/caches/transforms-3/e3892957ff43f0bc53053182229cc4a6/transformed/core-1.7.0/res/values-en-rXC/values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "203",
+                        "endOffsets": "254"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "1110",
+                        "endColumns": "203",
+                        "endOffsets": "1309"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/onlymac/kevintechmates/AndroidStudioProjects/airhorntms_git/build/just_audio/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rXC/values-en-rXC.xml",
+            "map": [
+                {
+                    "source": "/Users/onlymac/.gradle/caches/transforms-3/f7f104553746cfeb821bc2f13e1a64a6/transformed/jetified-media2-session-1.2.0/res/values-en-rXC/values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,262,461,655,879",
+                        "endColumns": "206,198,193,223,230",
+                        "endOffsets": "257,456,650,874,1105"
+                    }
+                },
+                {
+                    "source": "/Users/onlymac/.gradle/caches/transforms-3/e3892957ff43f0bc53053182229cc4a6/transformed/core-1.7.0/res/values-en-rXC/values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "203",
+                        "endOffsets": "254"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "1110",
+                        "endColumns": "203",
+                        "endOffsets": "1309"
+                    }
+                }
+            ]
+        }
+    ]
+}
